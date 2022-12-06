@@ -1,0 +1,44 @@
+#imagen{
+    background-image:url('/camion_contenedor_img1.webp');
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+}
+#avion1{
+    
+}
+
+#avion{
+    border-radius: 50%;
+    width: 20%;
+  
+}
+
+#p1{
+    color: bisque;
+    font-size: 300%;
+    width: 40;
+    height: 40;
+    display: inline-block;
+}
+
+#tractocamion{
+    border-radius: 50%;
+    width: 20%;
+}
+#p2{
+    color: bisque;
+    font-size: 300%;
+    width: 40;
+    height: 40;
+    display: inline-block;
+
+}
+#inicio{
+    background-color: antiquewhite;
+    width: 10%;
+    height: 10%;
+    color: #972997;
+    border-radius: 70%;
+    display: inline;
+    left: 150%;
+}

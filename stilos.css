@@ -1,0 +1,103 @@
+ 
+    
+  body {
+
+    background-image:url('https://img.freepik.com/fotos-premium/transporte-logistica-buque-carga-contenedor-avion-carga-representacion-3d-e-ilustracion_37416-201.jpg?w=1800 ');
+    background-repeat: no-repeat;
+    background-size: 100% 130%;
+
+    
+    
+  }
+ 
+ .bogotaxpress{
+    
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+   font-size: 360%;
+text-decoration-line: underline;
+    
+}
+ hr{
+  color: #223636;
+}
+
+.botones {
+
+  border-radius: 90%;
+  
+  
+  
+}
+#boton1 {
+  
+  color: #677b81;
+  border-radius: 90%;
+  display: inline-block  ;
+  width: 33%;
+}
+#boton2 {
+  border-radius: 90%;
+  color: #ccf3ff;
+  display: inline-block  ;
+  width: 33%;
+  text-align: center;
+ 
+}
+#boton3 {
+  border-radius: 90%;
+  color: #b3edff;
+  display: inline-block  ;
+  width: 33%;
+  text-align: right;
+ 
+  
+}
+#border {
+  border-radius: 70%;
+  border-color:#aa00c7 ;
+}
+
+h3 {
+
+  color: #422855;
+
+}
+
+#p1 {
+
+  print-color-adjust: 90%;
+  color: #223022;
+}
+
+#p2 {
+
+  print-color-adjust: 90%;
+  color: #3f6b3f;
+}
+
+#p3 {
+  
+  color: #4d9c4d;
+}
+  
+#logo {
+  text-align: center;
+  border-radius: 100%;
+  width: 10%;
+}
+
+#llevamos {
+  color: #01060a;
+  font-size: 420%;
+  display:inline-block;text-align: center;
+
+}
+#palabras{
+  font-size: 150%;
+}
+  
+.input { 
+   text-align: center;
+}
+

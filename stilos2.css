@@ -1,0 +1,53 @@
+
+body {
+    background-image:url('/camio_contenedor_img2.webp   ');
+    background-repeat: no-repeat;
+    background-size: 100% 130%;
+}
+
+
+#p1 {
+    color:#fffdfd;
+    text-align:center;
+    font-family: cursive;
+  }
+  #p2 {
+    color: #f5f0f0;
+    text-align:center;
+    font-family: cursive ;
+  } 
+  #p3 {
+    color: #f7f2f2;
+    text-align:center;
+    font-family:cursive ;
+  }
+
+  h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 270%;
+    color: #1a3842;
+    text-align: center;
+ }
+
+  #hr1{
+    color: rgb(27, 13, 13);
+  }
+
+
+ #hr2{
+  color: rgb(27, 13, 13);
+}
+
+#hr3{
+    color: rgb(27, 13, 13);
+  }
+  
+
+  #border{
+    background-color: antiquewhite;
+    width: 10%;
+    color: #972997;
+    border-radius: 70%;
+    display: inline;
+    left: 150%;
+   }
